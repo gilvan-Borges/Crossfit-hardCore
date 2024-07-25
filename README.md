@@ -1,5 +1,5 @@
 
-![Logo](https://gilvan-borges.github.io/Crossfit-hardCore/logo1.svg)
+![Logo](https://gilvan-borges.github.io/Crossfit-hardCore/img/logo1.svg)
 
 # Projeto Crossfit HardCore
 
