@@ -2,8 +2,6 @@
 ![Logo](https://gilvan-borges.github.io/Crossfit-hardCore/img/logo1.svg)
 
 # Projeto Crossfit HardCore
-
-Descrição
 Este projeto foi desenvolvido no curso de Front-End da Coti Informática. Trata-se de um site para uma academia de Crossfit chamado "Crossfit HardCore". O site foi desenvolvido utilizando HTML, CSS e JavaScript, e conta com um design moderno e responsivo.
 
 
